@@ -1,0 +1,2 @@
+#过滤dist根目录下的文件（不过滤其他目录下的dist文件夹）
+/node_modules
